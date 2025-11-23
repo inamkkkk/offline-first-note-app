@@ -1,0 +1,38 @@
+# Flutter/Dart files
+*.iml
+.idea
+*.dart_tool*
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+*.DS_Store
+
+# Build files
+build/
+android/build/
+ios/build/
+web/build/
+linux/build/
+windows/build/
+macos/build/
+
+# Dependency lockfiles
+pubspec.lock
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Compiled artifacts
+*.apk
+*.ipa
+
+# Log files
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Hive DB
+*.hive
